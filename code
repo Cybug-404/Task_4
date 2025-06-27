@@ -1,0 +1,10 @@
+## LINUX
+- ufw status
+- ufw deny 23/tcp
+- ufw status
+- ufw allow ssh
+- ufw reset
+
+## Windows
+- telnet <ip_address>
+- ssh username@<ip_address>
