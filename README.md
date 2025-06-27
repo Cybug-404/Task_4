@@ -24,6 +24,8 @@ Configure and test basic firewall rules to allow or block traffic on the system.
   ## 🧠 Learnings
 
   Ufw -help
+
+  
    COMMANDS              |  DESCRIPTION   
 |------------------------|----------------------|
 |  enable                |  enables the firewall
